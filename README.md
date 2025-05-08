@@ -15,8 +15,8 @@ A Jupyter Notebook tool that converts natural language math expressions to LaTeX
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/nl-to-math.git
-   cd nl-to-math
+   git clone (https://github.com/M1ndSmith/NLtoLatex)
+   cd NLtoLatex
 
 
 ## Install dependencies:
