@@ -1,0 +1,5 @@
+ipython
+ipywidgets
+langchain-groq
+matplotlib
+sympy
