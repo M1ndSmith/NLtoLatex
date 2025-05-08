@@ -60,5 +60,14 @@ Try these natural language inputs:
     "derivative of x squared plus 3x minus 5"
 
     "integral from 0 to pi of sine x dx"
+
+## Some demos:
+A binomial formula:
+![math_expression](https://github.com/user-attachments/assets/8477d16f-de51-4eac-94a7-ed32f120a891)
+
+detailed shrodinger equation:
+![math_expression](https://github.com/user-attachments/assets/9abe1c08-141e-4674-bcac-d09873a43fe1)
+
+    
     
    
